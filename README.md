@@ -1,6 +1,6 @@
 # SearchPPM
 
-A python script which extracts the mass intentisites of a user-defined mass list from a DataAnalysis proteomics software output csv files
+A python script which extracts the mass intentisites of a user-defined mass list from DataAnalysis proteomics software output csv files
 
 ## Features
 
