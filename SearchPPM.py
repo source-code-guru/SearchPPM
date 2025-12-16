@@ -1,6 +1,7 @@
 """
 A small python script which extracts masses intensities in a DataAnalysis output +/- delta ppm
-Written by Marc HAEGELIN (CNRS)
+Author : Marc HAEGELIN
+Date : 02-12-2023
 """
 
 
