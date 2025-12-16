@@ -17,7 +17,7 @@ A python script which extracts the mass intentisites of a user-defined mass list
 
 -Option 1:
 
-Install Python 3.10+ from the official Python distribution for your OS.
+Install Python 3.10+ from the official Python distribution for your OS.  
 Upgrade pip and install pandas:
 
 python -m pip install --upgrade pip  
