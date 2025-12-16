@@ -20,16 +20,16 @@ A python script which extracts the mass intentisites of a user-defined mass list
 Install Python 3.10+ from the official Python distribution for your OS.
 Upgrade pip and install pandas:
 
-python -m pip install --upgrade pip
-python -m pip install pandas
+python -m pip install --upgrade pip  
+python -m pip install pandas  
 
 -Option 2:
 
-Install Conda (Anaconda or Miniconda) for your OS.
-Create and activate an environment with Python 3.10+ and pandas:
+Install Conda (Anaconda or Miniconda) for your OS.  
+Create and activate an environment with Python 3.10+ and pandas:  
 
-conda create -n searchppm python=3.10 pandas
-conda activate searchppm
+conda create -n searchppm python=3.10 pandas  
+conda activate searchppm  
 
 ## Run
 
